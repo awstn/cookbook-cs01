@@ -1,0 +1,5 @@
+Chicken Fried Rice|20|10|2|chicken-day old rice-garlic-onions-chili-soy sauce-fish sauce-sugar-veggies|cook chicken-cook rice-saute everything-add everything-cry
+soup|10|10|4|pork bone-broth-onions-garlic-chili-veggies|cook pork bone soup-cook broth-cook onions-cook garlic-cook chili-cook veggies
+Chili|10|20|2|alskfj-fajk;|;laksdjf-lkjf
+cookies|10|20|1|cookie-butter-milk|bake cookies-eat cookies
+test1|10|10|1|fig-jam-honey|cook fig-cook jam-fry honey
